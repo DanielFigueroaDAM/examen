@@ -5,6 +5,7 @@
 Explica a continación cada apartado del examen
 
 Con cada apartado realiza un commit diferente
+**Me olvidé en el diagrama poner un if para comprobar si es negra o blanca y contarlas**
 
 ![ex_diagrama.drawio.png](.idea/ex_diagrama.drawio.png)
 **Se declararía el array de string**

@@ -7,6 +7,32 @@ Explica a continación cada apartado del examen
 Con cada apartado realiza un commit diferente
 
 ![ex_diagrama.drawio.png](.idea/ex_diagrama.drawio.png)
+- **Declaración del array**:
+  ```java
+    /**
+  * Creado el tablero de damas.
+  *
+  * @version 1.0
+  * @autor Daniel Figueroa Vidal
+    */
+  
+  
+  
+  public class Damas {
+    public static void main(String[] args) {
+        String[][] tablero = {
+            {null, "negras", null, "negras", null, "negras", null, "negras"},
+            {"negras", null, "negras", null, "negras", null, "negras", null},
+            {null, "negras", null, "negras", null, "negras", null, "negras"},
+            {null, null, null, null, null, null, null, null},
+            {null, null, null, null, null, null, null, null},
+            {"blancas", null, "blancas", null, "blancas", null, "blancas", null},
+            {null, "blancas", null, "blancas", null, "blancas", null, "blancas"},
+            {"blancas", null, "blancas", null, "blancas", null, "blancas", null},
+        };
+    }
+  }
+  ```
 
 - **Primera funcion**:
   ```java

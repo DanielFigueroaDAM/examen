@@ -7,6 +7,8 @@ Explica a continación cada apartado del examen
 Con cada apartado realiza un commit diferente
 
 ![ex_diagrama.drawio.png](.idea/ex_diagrama.drawio.png)
+**Se declararía el array de string**
+
 - **Declaración del array**:
   ```java
     /**
@@ -33,7 +35,6 @@ Con cada apartado realiza un commit diferente
     }
   }
   ```
-
 - **Primera funcion**:
   ```java
   /**
@@ -44,6 +45,8 @@ Con cada apartado realiza un commit diferente
    */
 
   ```
+  **No está implementado igual que en el diagrama de flujo, aquí habría dos bucles similares, en la primera funcion solamente se recorrería el array mostrandolo por pantalla 
+  y en la segunda funcion se recorrería para contar las damas**
 - **Segunda funcion**:
   ```java
   /**
@@ -53,7 +56,7 @@ Con cada apartado realiza un commit diferente
    */
 
   ```
-  
+  **La tercera funcion estaría dentro de la segunda, la segunda le pasaría los parametros.**
 - **Tercera funcion**:
   ```java
   /**
